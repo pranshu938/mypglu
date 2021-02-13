@@ -1,0 +1,26 @@
+
+body{
+    background-image:url('https://simplylivingtips.com/wp-content/uploads/2016/03/romantic-wall-papers-with-lovely-couples.jpg');
+}
+.main{
+    text-align: center;
+    
+    margin-top: 200px;
+   
+
+}
+.carousel-item{
+  margin-left: 40%;
+}
+
+.card{
+    height:400px;
+    background-color: silver;
+    padding-top: 10%;
+}
+
+@media (max-width: 700px){
+.carousel-item{
+    margin-left: 25%;
+}
+}
